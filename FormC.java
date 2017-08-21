@@ -127,7 +127,7 @@ public class FormC extends JFrame implements ActionListener {
             JOptionPane.showMessageDialog(this, "Gracias Por Usarme :)");
             System.exit(0);
         }
-        else
+        /*else
         {
             if(e.getSource()== _obtener)
             {
@@ -145,7 +145,7 @@ public class FormC extends JFrame implements ActionListener {
                 _resul3.setText(Long.toString(res3));
                 
                 _resul4.setText(Long.toString(res1 + res2 + res3));
-            }
+            }*/
                 
         }
     }
